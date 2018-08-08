@@ -57,5 +57,7 @@ If you find one, please submit an [issue ticket](https://gitlab.com/Baw-Appie/Mi
 
 v3.7 - Fixed Bug, put everything in a huge ```String.prototype``` function, so now you can't input your output element ID/Class. I mean come on, what if you just wanted to output to the console? I also changed a few tweaks here and there.
 
+v3.8 - &f tag can be processed in black.
+
 ## Legal
 You can modify this file in any way, but if you want, create a pull request so I can have a look. Also, try not sell this file/work for a price. I mean come on, if you really want money, go get a proper job. Thirdly and lastly, you can not give away this file/work without giving credit to me, and possibly giving the URL to this Github page. Due to the informality of this piece of text, you could ignore this if you want to.

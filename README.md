@@ -5,8 +5,21 @@ This project is a project forked [here](https://github.com/FoxInFlame/MinecraftC
 
 ## Installation
 
+## Use CDN
+
+Just put the simple code in the ```head``` tag.
+Like so:
+```
+<head>
+<script src="https://cdn.jsdelivr.net/gh/Baw-Appie/MinecraftColorCodes/MinecraftColorCodes.js"></script>
+</head>
+```
+You can also link the JS file at the bottom of the webpage, right before the ```body``` tag.
+
+Now you can use it!
+
 ## Manually Install
-Download this project here as a zip file, and open the zip file.  
+Download this project [here](https://gitlab.com/Baw-Appie/MinecraftColorCodes/-/archive/master/MinecraftColorCodes-master.zip) as a zip file, and open the zip file.  
 Place MinecraftColorCodes.js in the directory you want.  
 In the webpage you have the string want to translate, link the JS file in your ``` head ``` tag.  
 Like so:
